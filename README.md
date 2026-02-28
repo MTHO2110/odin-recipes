@@ -6,24 +6,24 @@ Here’s my completed solution to the **"Recipes Site"** project from The Odin P
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)  
-- [Live Preview](#live-preview)  
-- [Features](#features)  
-- [How to Use](#how-to-use)  
-- [Technologies](#technologies)  
-- [Status](#status)  
+- [Overview](#overview)
+- [Live Preview](#live-preview)
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Technologies](#technologies)
+- [Status](#status)
 - [Future Improvements](#future-improvements)
 
 ---
 
-## 🌟 Overview
+## 🌟 Overview {#overview}
 
 A simple multi-page recipes website built as part of the Foundations course in **The Odin Project**.  
 This project focuses on foundational HTML skills — creating structured content, organizing pages and internal links, and presenting information in a clear, easy-to-navigate format.
 
 ---
 
-## 🔗 Live Preview
+## 🔗 Live Preview {#live-preview}
 
 Access the deployed site here:  
 👉 `https://MTHO2110.github.io/odin-recipes/`  
@@ -31,7 +31,7 @@ Access the deployed site here:
 
 ---
 
-## 🧩 Features
+## 🧩 Features {#features}
 
 - Multiple recipe pages (Udon, Ramen, Soba, etc.)
 - Ingredients and step-by-step instructions
@@ -40,7 +40,7 @@ Access the deployed site here:
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Use {#how-to-use}
 
 ### 1️⃣ Clone the repository
 
@@ -48,19 +48,19 @@ Access the deployed site here:
 git clone https://github.com/MTHO2110/odin-recipes.git
 ```
 
-## 2️⃣ Navigate into the project directory
+### 2️⃣ Navigate into the project directory
 
 ```bash
 cd odin-recipes
 ```
 
-## 3️⃣ Open the homepage
+### 3️⃣ Open the homepage
 
 Open `index.html` in your browser to view the recipes site.
 
 ---
 
-### 🛠️ Technologies
+## 🛠️ Technologies {#technologies}
 
 This project is built using:
 
@@ -69,13 +69,13 @@ This project is built using:
 
 ---
 
-## 📈 Status
+## 📈 Status {#status}
 
 ✅ Completed
 
 ---
 
-## 📌 Future Improvements
+## 📌 Future Improvements {#future-improvements}
 
 - Add CSS for visual styling
 - Implement responsive layout
