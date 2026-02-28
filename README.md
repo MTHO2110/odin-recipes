@@ -1,84 +1,82 @@
-🍜 Project: Odin Recipes
+# 🍜 Odin Recipes
 
-Here is my solution to the "Recipes" project from The Odin Project Foundations course.
+Here’s my completed solution to the **"Recipes Site"** project from The Odin Project.
 
-📋 Table of Contents
+---
 
-Overview
+## 📋 Table of Contents
 
-Design
+- [Overview](#overview)  
+- [Live Preview](#live-preview)  
+- [Features](#features)  
+- [How to Use](#how-to-use)  
+- [Technologies](#technologies)  
+- [Status](#status)  
+- [Future Improvements](#future-improvements)
 
-Technologies
+---
 
-Project Status
+## 🌟 Overview
 
-Live Preview
+A simple multi-page recipes website built as part of the Foundations course in **The Odin Project**.  
+This project focuses on foundational HTML skills — creating structured content, organizing pages and internal links, and presenting information in a clear, easy-to-navigate format.
 
-Features
+---
 
-How to Use
+## 🔗 Live Preview
 
-Future Improvements
+Access the deployed site here:  
+👉 `https://MTHO2110.github.io/odin-recipes/`  
+*(Replace with your actual GitHub Pages URL.)*
 
-✨ Overview
+---
 
-A simple multi-page recipe website built as part of The Odin Project curriculum. The goal of this project is to strengthen fundamental HTML skills, including page structure, linking, and proper file organization.
+## 🧩 Features
 
-🎨 Design
+- Multiple recipe pages (Udon, Ramen, Soba, etc.)
+- Ingredients and step-by-step instructions
+- Navigation between pages
+- Organized folder structure for images and recipes
 
-This project does not follow a specific visual design. It is intentionally minimal, as the focus is on building a solid HTML structure before introducing CSS styling in later lessons.
+---
 
-Project instructions can be found on The Odin Project.
+## 🚀 How to Use
 
-🛠️ Technologies
+### 1️⃣ Clone the repository
 
-This project was built using:
+```bash
+git clone https://github.com/MTHO2110/odin-recipes.git
+```
 
-HTML5
+## 2️⃣ Navigate into the project directory
 
-Git
+```bash
+cd odin-recipes
+```
 
-GitHub
+## 3️⃣ Open the homepage
 
-📊 Project Status
+Open `index.html` in your browser to view the recipes site.
+
+---
+
+### 🛠️ Technologies
+
+This project is built using:
+
+- HTML5
+- Git & GitHub
+
+---
+
+## 📈 Status
 
 ✅ Completed
 
-🔗 Live Preview
+---
 
-You can view the live project here:
+## 📌 Future Improvements
 
-https://your-github-username.github.io/odin-recipes/
-
-(Replace with your actual GitHub Pages link.)
-
-✨ Features
-
-Multiple recipe pages
-
-Ingredients and step-by-step instructions
-
-Proper semantic HTML structure
-
-Internal navigation between pages
-
-Organized folder structure for images and recipes
-
-🚀 How to Use
-1️⃣ Clone the repository
-git clone https://github.com/your-github-username/odin-recipes.git
-2️⃣ Navigate into the project folder
-cd odin-recipes
-3️⃣ Open in your browser
-
-Open index.html in your preferred web browser.
-
-🔮 Future Improvements
-
-Add CSS styling for improved visual design
-
-Implement responsive layout
-
-Add more recipes and categories
-
-Improve navigation and layout consistency
+- Add CSS for visual styling
+- Implement responsive layout
+- Add more recipes and categories
